@@ -8,7 +8,7 @@ import java.util.List;
 import classes.UsuariosDAO;
 
 public class ListagemUsuarios extends javax.swing.JFrame {
-
+//Tela de Listagem de usuários
     public ListagemUsuarios() {
         initComponents();
          setDefaultCloseOperation(ListagemUsuarios.DISPOSE_ON_CLOSE);
