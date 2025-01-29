@@ -5,14 +5,8 @@ import classes.ClientesDAO;
 import classes.ListaClientes;
 import javax.swing.JOptionPane;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-/**
- *
- * @author ander
- */
+ // Tela de cadastro de clientes
+
 public class CadastroClientes extends javax.swing.JFrame {
 
     /**
