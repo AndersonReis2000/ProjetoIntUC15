@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package telas.etapa3.senac;
 
 import classes.Clientes;
@@ -10,15 +7,10 @@ import java.util.List;
 import javax.swing.table.DefaultTableModel;
 import classes.ClientesDAO;
 
-/**
- *
- * @author ander
- */
+
 public class ListagemClientes extends javax.swing.JFrame {
 
-    /**
-     * Creates new form ListagemClientes
-     */
+    /
     public ListagemClientes() {
         initComponents();
         setDefaultCloseOperation(ListagemClientes.DISPOSE_ON_CLOSE);
