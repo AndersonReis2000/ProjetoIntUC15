@@ -7,15 +7,10 @@ import javax.swing.table.DefaultTableModel;
 import classes.ListaProdutos;
 import classes.ProdutosDAO;
 
-/**
- *
- * @author ander
- */
+// Produtos em estoque
 public class ProdutosEstoque extends javax.swing.JFrame {
 
-    /**
-     * Creates new form ProdutosEstoque
-     */
+
     public ProdutosEstoque() {
         initComponents();
          setDefaultCloseOperation(ProdutosEstoque.DISPOSE_ON_CLOSE);
