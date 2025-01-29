@@ -7,9 +7,7 @@ import javax.swing.JOptionPane;
 
 public class CadastroUsuarios extends javax.swing.JFrame {
 
-    /**
-     * Creates new form CadastroUsuarios
-     */
+    
     public CadastroUsuarios() {
         initComponents();
         setDefaultCloseOperation(CadastroUsuarios.DISPOSE_ON_CLOSE);
